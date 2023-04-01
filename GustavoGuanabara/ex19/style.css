@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/*  em HTML é ID = em CSS é #
+    em HTML é class = em CSS é .
+    a diferença entre eles é que ID não repete e class repete
+*/
+
+body{
+    background-color: rgb(203, 247, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(32, 87, 0);
+}
+
+h1#principal{ /* pode escrever h1#principal ou somente #principal - é que com h1, herda o h1*/
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+h2{
+    color: rgb(89, 158, 50);
+}
+
+.basico{ /* pode escrever h2.basico ou só .basico - é que com h2, herda o h2*/
+    color: green;
+}
+
+.intermediario{
+    color: rgb(131, 131, 31);
+}
+
+.avancado{
+    color: rgb(117, 13, 13);
+}
+
+.destaque{
+    background-color: rgba(158, 158, 30, 0.507);
+}

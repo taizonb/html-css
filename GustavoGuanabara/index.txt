@@ -1,0 +1,16 @@
+Mod01 - Primeiros passos HTML5+CSS3 (conceitos básicos, preparação, semantica, textos...)
+Mod02 - Deixando as coisas bonitas (design, cores, tipografia, elementos CSS, modelo box, wireframe, responsividade)
+Mod03 - Colocando um protótipo no ar (versões, hospedagem e tabelas
+Mod04 - Aprofundando conhecimentos (quadros em linha, formulários, media queries e mobile first)
+Mod05 - Novas tecnologias (flexbox, grid layout, projeto final)
+
+
+19 - id e class
+20 - pseudo classes (hover e div - estados de elementos - animação quando passa o mouse)
+20 - pseudo elementos (mexe no conteudo)
+21 - div/span = tipos de caixas
+21 - box-level/inline-level / border, padding, margin e outline (short hand)
+*21 - grouping tax (elementos semanticos - muito importante!) - https://www.youtube.com/watch?v=JPMm-jyKOaM&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=27
+21 - sombras
+21 - bordas
+

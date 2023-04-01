@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf);
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color: #EBE5C5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    font-size: 16px;
+}
+header{
+    background: linear-gradient(#2FA765, #05371B);
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+header > p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: larger;
+}
+nav{
+    text-align: left;
+    color: #BFF0D5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    text-shadow: 0px 0px 0px black;
+}
+nav > a{
+    color: #BFF0D5;
+}
+h1{
+    font-family: 'Bebas Neue';
+    font-size: 3em;   
+    font-weight: bold; 
+}
+h2{
+    font-family: 'idroid';
+    color: #063D1E
+    margin-left: 10px;
+    font-size: 28px;
+    font-weight: normal;
+}
+h3{
+    background-image: linear-gradient(to right, #83E1AD, #FAFDFC);
+    font-family: 'idroid';
+    color: #246341;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+    text-indent: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+main{
+    margin: 0px 50px 0px 50px;
+}
+section{
+    background-color: white;
+}
+a{
+    color: #2FA866;
+    font-weight: bold;
+    text-decoration: none;
+}
+a#lin{
+    background-color: #83E1AD;
+    color: #1A5C37;
+}
+a#lin::after{
+    content: '🔗';
+}
+a:hover{
+    background-color: #2FA866;
+    color: #063D1E;
+}
+span{
+    color: #1A5C37;
+    font-weight: bold;
+}
+div#video{
+    background-color: #063D1E;
+    padding: 5%;
+}
+a:visited{
+    text-decoration: none;
+}
+ul.ok{
+    list-style-type: disc;
+}
+h3#extra{
+    background-image: none;
+    background-color: #1A5C37;
+    color: white;
+}
+#box{
+    background-color: #83E1AD;
+}
+footer{
+    background-color: #063D1E;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
