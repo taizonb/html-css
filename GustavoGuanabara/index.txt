@@ -13,4 +13,4 @@ Mod05 - Novas tecnologias (flexbox, grid layout, projeto final)
 *21 - grouping tax (elementos semanticos - muito importante!) - https://www.youtube.com/watch?v=JPMm-jyKOaM&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=27
 21 - sombras
 21 - bordas
-
+22 - img de fundo
